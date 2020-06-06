@@ -9,3 +9,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 3   | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)                   | Array              |     Easy   |
 | 4   | [Reverse String](https://leetcode.com/problems/reverse-string/)                   | String              |     Easy   |
 | 5   | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)              | Array           |     Medium   |
+| 5   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | Array           |     Medium |  
