@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/is-subsequence/
 
 class Solution {
-    public booleahttps://leetcode.com/problems/is-subsequence/n isSubsequence(String s, String t) {
+    public boolean isSubsequence(String s, String t) {
         int s_i = 0;
         
         if(s.length() == 0)
@@ -13,8 +13,7 @@ class Solution {
             
             if(s_i == s.length())
                 return true;
-        }      
-        
+        }
         return false;
     }
 }
