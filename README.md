@@ -12,3 +12,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 6   | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)  | Array           |     Medium | 
 | 7   | [Coin Change 2](https://leetcode.com/problems/coin-change-2/)  | DP           |     Medium | 
 | 8   | [Power of Two](https://leetcode.com/problems/power-of-two/)  | Bits           |     Easy | 
+| 9   | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)  | String           |     Easy | 
