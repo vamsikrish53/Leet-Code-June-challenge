@@ -16,3 +16,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 10   | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)  | Array           |     Easy |
 | 11   | [Sort Colors](https://leetcode.com/problems/sort-colors/)  | In Place Sort          |     Medium |
 | 12   | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)  | List, Map        |     Medium |
+| 13   | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)  | DP        |     Medium |
