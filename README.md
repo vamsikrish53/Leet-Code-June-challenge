@@ -20,3 +20,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 14   | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)  | Graph        |     Medium |
 | 15   | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)  | BST        |     Easy |
 | 16   | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)  | String        |     Medium |
+| 17   | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)  | DFS        |     Medium |
