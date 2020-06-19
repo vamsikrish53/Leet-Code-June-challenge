@@ -22,3 +22,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 16   | [Validate IP Address](https://leetcode.com/problems/validate-ip-address/)  | String        |     Medium |
 | 17   | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)  | DFS        |     Medium |
 | 18   | [H-Index II](https://leetcode.com/problems/h-index-ii/https://leetcode.com/problems/surrounded-regions/)  | Binary Search  |     Medium |
+| 19   | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)  | Binary Search  + Rolling Hash|     Hard |
