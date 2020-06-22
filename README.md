@@ -24,4 +24,5 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 18   | [H-Index II](https://leetcode.com/problems/h-index-ii/https://leetcode.com/problems/surrounded-regions/)  | Binary Search  |     Medium |
 | 19   | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/)  | Binary Search  + Rolling Hash|     Hard |
 | 20   | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  | DFS|     Hard |
-| 20   | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | DP |     Hard |
+| 21   | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | DP |     Hard |
+| 22   | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | BIT |     Medium |
