@@ -27,3 +27,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 21   | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)  | DP |     Hard |
 | 22   | [Single Number II](https://leetcode.com/problems/single-number-ii/)  | BIT |     Medium |
 | 23   | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)  | Tree |     Medium |
+| 24   | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)  | Tree |     Medium |
