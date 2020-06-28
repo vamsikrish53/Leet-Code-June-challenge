@@ -31,3 +31,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 25   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | Flyods Algo |     Medium |
 | 26   | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)  | Tree |     Medium |
 | 27   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | DP |     Medium |
+| 28   | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  | DFS |     Medium |
