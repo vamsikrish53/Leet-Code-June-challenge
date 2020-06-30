@@ -33,3 +33,4 @@ Solutions of the problems that I solved in LeetCode during [June LeetCoding Chal
 | 27   | [Perfect Squares](https://leetcode.com/problems/perfect-squares/)  | DP |     Medium |
 | 28   | [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)  | DFS |     Medium |
 | 29   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | DP |     Medium |
+| 30   | [Word Search II](https://leetcode.com/problems/word-search-ii/)  | BackTracking |     Hard |
